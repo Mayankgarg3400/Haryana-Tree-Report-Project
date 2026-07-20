@@ -1,0 +1,46 @@
+Haryana-Tree-Report-Project/
+│
+├── data/
+│   ├── raw/                     # Original PDFs, Excel, CSV
+│   ├── processed/               # Cleaned datasets
+│   └── embeddings/
+│
+├── reports/
+│   ├── generated/
+│   └── templates/
+│
+├── notebooks/
+│   └── data_analysis.ipynb
+│
+├── src/
+│   ├── ingestion/
+│   │   ├── load_pdf.py
+│   │   ├── load_excel.py
+│   │   └── chunk_data.py
+│   │
+│   ├── embeddings/
+│   │   ├── embedding_model.py
+│   │   └── vector_store.py
+│   │
+│   ├── rag/
+│   │   ├── retriever.py
+│   │   ├── generator.py
+│   │   └── pipeline.py
+│   │
+│   ├── langgraph/
+│   │   ├── graph.py
+│   │   ├── nodes.py
+│   │   └── state.py
+│   │
+│   ├── utils/
+│   │   ├── config.py
+│   │   └── helper.py
+│   │
+│   └── app.py
+│
+├── streamlit_app.py
+├── requirements.txt
+├── .env
+├── .gitignore
+├── README.md
+└── LICENSE
