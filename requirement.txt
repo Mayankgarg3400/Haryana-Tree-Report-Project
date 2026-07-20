@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-ollama
+chromadb
+pypdf
+pandas
+openpyxl
+streamlit
+python-dotenv
+tqdm
