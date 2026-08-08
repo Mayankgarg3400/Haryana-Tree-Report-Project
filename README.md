@@ -2,11 +2,11 @@
 
 Haryana Tree Plantation & Forest Intelligence Assistant
 
+![VanMitra AI Dashboard](vanmitra-pic.jpeg)
+
 VanMitra AI is an Agentic RAG-based AI assistant designed to provide information and insights related to Haryana's forests, tree plantation, climate, soil, tree species, departmental contacts, and other forestry-related data.
 
 The system combines Retrieval-Augmented Generation (RAG), multiple agents, ChromaDB, Ollama/Qwen, and MCP tools to retrieve relevant information from the project's knowledge base and generate grounded responses.
-
-![VanMitra AI Dashboard](vanmitra pic.jpeg)
 
 ✨ Key Features
 
